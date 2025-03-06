@@ -306,6 +306,19 @@ img {
   border-radius: 0.5rem;
 }
 
+.skills__eng {
+  width: 100%;
+}
+.skills__story {
+  width: 80%;
+}
+.skills__presentation {
+  width: 80%;
+}
+.skills__thinking {
+  width: 75%;
+}
+
 /* ===== WORK =====*/
 .work__container {
   row-gap: 2rem;
